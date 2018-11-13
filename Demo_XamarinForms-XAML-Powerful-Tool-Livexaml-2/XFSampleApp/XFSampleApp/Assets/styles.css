@@ -1,0 +1,17 @@
+﻿^contentpage {
+    background-color: lightgray;
+}
+
+^button{
+    background-color: blueviolet;
+}
+
+^label {
+    background-color:cadetblue;
+}
+
+.myTextStyle {
+     text-align: center;
+     color: brown;
+}
+
